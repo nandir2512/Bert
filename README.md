@@ -15,4 +15,5 @@
    - Batch Size: 16 or 32
    - Epochs: 2 to 4
    - Learning Rates for Adam: 5e-5, 3e-5, or 2e-5.
+   - Max length - max length of the text that can go to Bert
    - etc. 
